@@ -1,0 +1,6 @@
+int main(){
+int a,b,ans;
+scanf("%d %d");
+ans=a*b;
+printf("%d",ans);
+}

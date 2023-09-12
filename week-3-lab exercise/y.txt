@@ -1,0 +1,48 @@
+ 
+ int : keyword 
+ main : identifier
+(
+)
+{ 
+ int : keyword 
+ a : identifier
+,
+ b : identifier
+,
+ ans : identifier
+;
+ scanf : identifier
+(
+"
+%
+ d : identifier
+%
+ d : identifier
+"
+)
+;
+ ans : identifier
+ a : identifier
+*
+ b : identifier
+;
+ printf : identifier
+(
+"
+%
+ d : identifier
+"
+,
+ ans : identifier
+)
+;
+}
+
+Symbol Table:
+main
+a
+b
+ans
+scanf
+d
+printf
